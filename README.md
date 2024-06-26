@@ -46,6 +46,8 @@ made a text file an added to conflict-branch
   git push origin feature1
   ```
 ## Merge master into conflict-branch [Attach screenshot of terminal & file]
+![image](https://github.com/Rishav-k/github-practice/assets/76813135/b399ccc5-94fc-4ec8-9f5d-e2b3cde18c25)
+
 
 ## Resolve merge conflicts
 Make some necessary changes in file 
